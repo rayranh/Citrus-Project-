@@ -10,3 +10,6 @@
 * In order to find position of genes I retrieved the GFF file "Annotated Genes and Exons" from the Citrus Genome database https://www.citrusgenomedb.org/analysis/156.   
 * I searched against the GFF file with my proteins of interest "Clementina_Proteins.fasta" to find the annotated genes of interest to me. 
 * I scaled the relative position of the domains on all 9 scaffolds using ggplot2 in R. 
+
+References  
+Singh, Khushwant, et al. "Genome Wide Identification of the Immunophilin Gene Family in Leptosphaeria maculans: A Causal Agent of Blackleg Disease in Oilseed Rape (Brassica napus)." OMICS A Journal of Integrative Biology 18.10 (2014).
